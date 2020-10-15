@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="smart_movies@119.23.190.71" uuid="fe1329ba-8eef-4179-b961-a810a8f908b5">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://119.23.190.71:3306/smart_movies</jdbc-url>
+    </data-source>
+  </component>
+</project>
